@@ -13,7 +13,7 @@
 127.0.0.1	localhost
 
 # Change the name!
-127.0.1.1	YOUR-PC-NAME
+127.0.1.1	dell3459
 
 # fallback hostname used by NetworkManager
 127.0.0.1	localhost.localdomain
